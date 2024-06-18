@@ -10,5 +10,5 @@ if (argCount === 2) {
 } else if (argCount === 3) {
   console.log('Argument fonnd');
 } else {
-  console.log('Argumnets found');
+  console.log('Arguments found');
 }
